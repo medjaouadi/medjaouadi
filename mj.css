@@ -1,0 +1,16 @@
+.container{ border: 1px solid; }
+.bordureRouge2{ border: 3px solid #adb5bd; padding: 10px; }
+.bordureVerte2{ border: 3px solid #20c997; padding: 10px; }
+.bordureBleue2{ border: 3px solid #0dcaf0; padding: 10px; }
+.bordureJaune2{ border: 3px solid #ffc107; padding: 10px; }
+.bordureOrange2{ border: 3px solid #6f42c1; padding: 10px; }
+
+
+  .white{
+    color:white ;
+  }
+  .marquee{
+    behavior: alternate; 
+    direction: up;
+     loop : 2;
+  }
